@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Gradle / Android Studio
+.gradle/
+build/
+/captures
+.externalNativeBuild
+.cxx
+.kotlin/
+*.iml
+.idea/
+local.properties
+
+# Release outputs
+/app/release/
+*.apk
+*.aab
+
+# Signing keys and service config: never commit these
+*.jks
+*.keystore
+keystore.properties
+google-services.json
+
+# Local tooling
+.claude/settings.local.json

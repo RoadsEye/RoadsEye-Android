@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RoadsEye</string>
+    <string name="location_label">Location:</string>
+    <string name="speed_label">Speed:</string>
+    <string name="fps_label">FPS:</string>
+    <string name="start_button_content_description">Start Button</string>
+    <string name="settings_button_content_description">Settings Button</string>
+    <string name="stop_button_content_description">Stop recording</string>
+    <string name="capture_button_content_description">Capture and save recording</string>
+
+    <!-- Home screen widgets -->
+    <string name="widget_quick_record_label">Quick Record</string>
+    <string name="widget_quick_record_description">Start a dashcam recording with one tap.</string>
+    <string name="widget_stats_label">Driving Stats</string>
+    <string name="widget_stats_description">Your lifetime driving stats at a glance.</string>
+</resources>
